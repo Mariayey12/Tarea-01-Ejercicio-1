@@ -1,0 +1,28 @@
+body {
+    color: #f3f4f5;
+}
+
+h1 {
+    color: black;
+    font-size: 24px;
+    font-family: Arial;
+}
+
+h2 {
+    color: black;
+    font-size: 24px;
+    font-family: Arial;
+}
+
+P {
+    color: #757575;
+    font-size: 18px;
+    font-family: Georgia;
+}
+
+ul {
+    list-style: square;
+    color: black;
+    font-size: 18px;
+    font-family: Arial;
+}
